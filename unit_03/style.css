@@ -1,0 +1,43 @@
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+body {
+    background-color: #eeeee4;
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 44px;
+    color: #873e23;
+}
+h2 {
+    font-size: 32px;
+    color: #063970;
+}
+h3 {
+    font-size: 22px;
+    color: rgba(11,111,170,255);
+}
+h4 {
+    font-size: 18px;
+    color: #873e23;
+}
+p, li {
+    font-size: 16px;
+}
+
+i, h2 {
+    display: inline;
+}
+
+/* how can I align the icon and h2 to the bottom? */
+i {
+    color:#063970;
+    margin-right: 5px;
+}
