@@ -20,6 +20,7 @@ h2 {
     font-size: 32px;
     color: #063970;
 }
+
 h3 {
     font-size: 22px;
     color: rgba(11,111,170,255);
@@ -40,4 +41,5 @@ i, h2 {
 i {
     color:#063970;
     margin-right: 5px;
+    size: 50%;
 }
