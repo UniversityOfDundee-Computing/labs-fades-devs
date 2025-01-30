@@ -40,11 +40,21 @@ article p {
 h1 {
     font-size: 36px;
     color: #a6410a;
+    text-align: center;
+}
+
+.heroimg {
+   display: inline-block;
+    margin: 0 auto;
 }
 
 h2 {
     font-size: 24px;
     color: #c16734;
+}
+
+main section {
+    margin: auto;
 }
 
 article {
@@ -53,5 +63,14 @@ article {
 }
 
 .menudiv {
-    width: 400px;
+    max-width: 500px;
+    margin: auto;
+}
+
+.hero {
+    max-width: 500px;
+}
+
+footer {
+    text-align: center;
 }
