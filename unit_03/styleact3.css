@@ -1,0 +1,89 @@
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+main {
+    align-self: stretch;
+}
+
+header h1 {
+    display: flex;
+    padding: 10px 0;
+    margin: 0;
+    vertical-align: middle;
+}
+
+h1 img {
+    margin-right: 10px;
+}
+
+header nav {
+    display: flex;
+    justify-content: left;
+    background-color: rgb(44, 45, 46);
+}
+
+nav a {
+    margin: 0 10px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+main {
+    display: flex;
+    flex: 1;
+}
+
+.main-left {
+    vertical-align: top;
+    align-self: stretch;
+    padding: 0 20px;
+    background-color: rgb(203, 223, 223);
+}
+
+.main-right {
+    vertical-align: top;
+    max-width: 30%;
+    align-self: stretch;
+    padding: 0 20px;
+    background-color: rgb(139, 152, 152);
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+footer > :first-child {
+    width: 100%;
+    background-color: rgb(145, 147, 147);
+}
+
+footer > :nth-child(2) {
+    width: 100%;
+    background-color: rgb(212, 216, 216);
+}
+
+footer > :last-child {
+    width: 100%;
+    background-color: rgb(159, 162, 162);
+}
+
+footer section p {
+    text-align: left;
+    margin-left: 10px;
+    font-weight: bold;
+}
