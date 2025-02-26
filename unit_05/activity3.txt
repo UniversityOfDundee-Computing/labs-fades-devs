@@ -1,0 +1,8 @@
+Site Responsiveness:
+
+- Header: The navigation items can be hidden inside a menu
+- Hero Section: Layout Change (picture taking up full width then text below it) - The CTA button can be centered
+- Gallery Section: Layout Change (showing 1 gallery card at a time, taking up full screen width)
+- Footer: The list items can be displayed horizontally to avoid extra scrolling - The copyright declaration can be shown below the list items
+- Smaller fonts
+- Less padding and margins

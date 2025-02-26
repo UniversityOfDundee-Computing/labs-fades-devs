@@ -1,0 +1,13 @@
+Website Chosen: Google
+https://web.archive.org/web/19981202230410/http://www.google.com/
+
+
+Changes over time (1998 to 2025):
+- More focus on white space (margins and paddings)
+- Minimalistic design
+- Subtle shadows
+- Use of sans-serif fonts
+- Focus on the overall aesthetic (not only the functionality)
+- Leverage of menus to hide content in different sections
+- More use of rounded corners
+- Increase of font sizes for better readability
