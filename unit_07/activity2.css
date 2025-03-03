@@ -1,0 +1,27 @@
+body {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+#total {
+    height: 40px;
+    border: 3px solid !important;
+}
+
+#per1 {
+    margin-left: 0 !important;
+}
+
+#per3 {
+    margin-right: 0 !important;
+}
+
+#per1, #per2, #per3, #largest {
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+#largest {
+    font-size: 1.1rem;
+}
