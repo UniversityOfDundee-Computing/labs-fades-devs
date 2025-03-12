@@ -1,0 +1,54 @@
+#lg {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    padding: 0;
+}
+
+.cont div {
+    margin: 0 10px;
+    height: 100%;
+    width: 100%;
+}
+
+#sq1 {
+    margin-left: 0;
+    background-color: aquamarine;
+}
+
+#sq2 {
+    background-color: burlywood;
+}
+
+#sq3 {
+    background-color: rgb(135, 222, 158);
+}
+
+#sq4 {
+    background-color: rgb(41, 118, 166);
+}
+
+#sq5 {
+    background-color: rgb(187, 99, 186);
+}
+
+#sq6 {
+    background-color: rgb(218, 230, 56);
+}
+
+#sq7 {
+    background-color: rgb(155, 138, 192);
+}
+
+#sq8 {
+    margin-right: 0;
+    background-color: bisque;
+}
